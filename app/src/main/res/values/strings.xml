@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Can you guess the player</string>
+
+    <string name="lets_football">Lets Football!</string>
+    <string name="_30s">30s</string>
+    <string name="_00_00">00/00</string>
+    <string name="todo">TODO</string>
+</resources>

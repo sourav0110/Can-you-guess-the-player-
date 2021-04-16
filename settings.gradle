@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Can you guess the player"
